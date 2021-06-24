@@ -1,1 +1,1 @@
-Reward Files required to run all included in games subdirectory.
+Reward Files required to run the custom agents is included in games subdirectory.
