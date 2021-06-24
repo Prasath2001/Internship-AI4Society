@@ -4,7 +4,7 @@ Contains all code experiments through the course of internship.
 ## Custom Agent
 Contains code to create a random and a neural agent, where code is documented within the notebook. The CustomAgent/games subdirectory contains all the reward files to run the custom_agent notebook.
   ## Requirements/Dependencies 
-  1. Pytorch (Depends on OS)
+  1. Pytorch (Installation depends on OS)
   2. pip install gym
   3. pip install textworld 
   
