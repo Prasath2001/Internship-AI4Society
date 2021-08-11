@@ -1,4 +1,5 @@
 This folder contains similarity scores between train and test entities in TWC using raw graph statistics and neural embeddings method.
+Dependencies : Download pre-trained embedding files for FastText, GloVe and ConceptNet Numberbatch.
 
 Raw graph statistics :
 1. Common neighbors
